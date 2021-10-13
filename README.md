@@ -71,7 +71,7 @@ Enthusiastic and passionate about technology. Always willing to learn new things
 ### Education:
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-<!-- ![Rocketseat](https://img.shields.io/badge/-Rocketseatstyle=for-the-badge) -->
+[![Rocketseat](https://img.shields.io/badge/%F0%9F%9A%80-Rocketseat-blueviolet?style=for-the-badge)](https://app.rocketseat.com.br/me/renan-borges-1566775516)
 
 ## My github stats
 
