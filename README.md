@@ -8,12 +8,15 @@ Dev @WALO DTP
 
 Enthusiastic and passionate about technology. Always willing to learn new things and driven by it!
 
+Studying Javascript frameworks as React, React Native and Node JS.
+Also
+
 ## Social:
 
-[![Linkedin Badge](https://img.shields.io/badge/Renan%20Borges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanvcb/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renanvcb)
-[![Twitter Badge](https://img.shields.io/badge/Renan%20Borges-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/renanvcb/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renanvcb)
+[![Linkedin Profile](https://img.shields.io/badge/Renan%20Borges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanvcb/)
+[![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renanvcb)
+[![Twitter Profile](https://img.shields.io/badge/Renan%20Borges-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/renanvcb/)
+[![Github Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renanvcb)
 
 ## Experiences:
 
@@ -73,7 +76,7 @@ Enthusiastic and passionate about technology. Always willing to learn new things
 ### Education:
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-[![Rocketseat](https://img.shields.io/badge/%F0%9F%9A%80-Rocketseat-blueviolet?style=for-the-badge)](https://app.rocketseat.com.br/me/renan-borges-1566775516)
+[![Rocketseat Profile](https://img.shields.io/badge/%F0%9F%9A%80-Rocketseat-blueviolet?style=for-the-badge)](https://app.rocketseat.com.br/me/renan-borges-1566775516)
 
 ## My github stats
 
