@@ -1,4 +1,6 @@
-# Renan Borges
+# Well, hello there! I'm Renan Borges! Welcome to my profile!
+
+![Hello there gif](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 Dev @WALO DTP
 
