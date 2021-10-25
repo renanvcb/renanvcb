@@ -77,7 +77,7 @@ Enthusiastic and passionate about technology. Always willing to learn new things
 
 ## My github stats
 
-[![Renanvcb's github stats](https://github-readme-stats.vercel.app/api?username=renanvcb&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Renanvcb's github stats](https://github-readme-stats.vercel.app/api?username=renanvcb&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Renanvcb's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvcb&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
