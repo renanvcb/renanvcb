@@ -9,8 +9,13 @@ Dev @WALO DTP
 
 Enthusiastic and passionate about technology. Always willing to learn new things and driven by it!
 
+Actually living in Macaé-RJ, but I have a goal to live in Portugal.
+
+I love fantasy and Sci-Fi movies.
+
 Studying Javascript frameworks as React, React Native and Node JS.
-Also
+
+Also experiencing in NextJS and Tailwind CSS.
 
 ## Social:
 
