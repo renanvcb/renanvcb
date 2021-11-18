@@ -23,6 +23,7 @@ Also experiencing in NextJS and Tailwind CSS.
 [![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renanvcb)
 [![Twitter Profile](https://img.shields.io/badge/Renan%20Borges-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/renanvcb/)
 [![Github Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renanvcb)
+[![Rocketseat Profile](https://img.shields.io/badge/%F0%9F%9A%80-Rocketseat-blueviolet?style=for-the-badge)](https://app.rocketseat.com.br/me/renan-borges-1566775516)
 
 ## Experiences:
 
