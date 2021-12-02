@@ -3,7 +3,7 @@
 ![Hello there gif](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 <!-- Dev @WALO DTP -->
-[![GitHub Followers](https://img.shields.io/github/followers/renanvcb?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/renanvcb?tab=followers)
+[![GitHub Followers](https://img.shields.io/github/followers/renanvcb?style=for-the-badge&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/renanvcb?tab=followers)
 
 ## About me:
 
