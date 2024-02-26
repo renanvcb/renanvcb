@@ -9,7 +9,7 @@
 
 Enthusiastic and passionate about technology. Always willing to learn new things and driven by it!
 
-Actually living in Macaé-RJ, but I have a goal to live in Portugal.
+Currently living in Macaé-RJ, but I have a goal to live in Portugal.
 
 I love fantasy and Sci-Fi movies.
 
