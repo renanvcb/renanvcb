@@ -7,15 +7,20 @@
 
 ## About me:
 
-Enthusiastic and passionate about technology. Always willing to learn new things and driven by it!
+### Full Stack Developer | Technology Enthusiast | Lifelong Learner
 
-Currently living in Macaé-RJ, but I have a goal to live in Portugal.
+I am an enthusiastic and passionate Full Stack Developer with a strong drive for continuous learning and growth in the technology field. My dedication to expanding my knowledge and staying updated with the latest industry trends fuels my ability to deliver innovative solutions.
 
-I love fantasy and Sci-Fi movies.
+Location: Currently based in Macaé, RJ, Brazil, with a long-term goal to relocate and advance my career in Portugal.
 
-Studying Javascript frameworks as React, React Native and Node JS.
+### Technical Expertise:
 
-Also experiencing in NextJS and Tailwind CSS.
+- Frontend Development: Proficient in JavaScript frameworks, including React, React Native, and Next.js, with a focus on creating responsive, user-friendly interfaces.
+- Backend Development: Experienced with Node.js, enabling the development of scalable and efficient server-side applications.
+- Styling: Skilled in utilizing Tailwind CSS to streamline the design process and produce clean, modern, and consistent UI components.
+
+### Personal Interests:
+Beyond coding, I am a passionate fan of fantasy and sci-fi movies, which inspire my creativity and problem-solving approach.
 
 ## Social:
 
