@@ -15,12 +15,18 @@ Location: Currently based in Macaé, RJ, Brazil, with a long-term goal to reloca
 
 ### Technical Expertise:
 
-- Frontend Development: Proficient in JavaScript frameworks, including React, React Native, and Next.js, with a focus on creating responsive, user-friendly interfaces.
+- Frontend Development: Proficient in JavaScript frameworks, including React, React Native, Vite and Next.js, with a focus on creating responsive, user-friendly interfaces.
 - Backend Development: Experienced with Node.js, enabling the development of scalable and efficient server-side applications.
-- Styling: Skilled in utilizing Tailwind CSS to streamline the design process and produce clean, modern, and consistent UI components.
+- Styling: Skilled in utilizing Tailwind CSS to streamline the design process and produce clean, modern, and consistent UI components. Also had experience with SASS and bare CSS.
 
 ### Personal Interests:
-Beyond coding, I am a passionate fan of fantasy and sci-fi movies, which inspire my creativity and problem-solving approach.
+Beyond coding, I am a passionate fan of gaming, fantasy and sci-fi movies, which inspire my creativity and problem-solving approach.
+
+## Professional projects I was responsible or was part of:
+[![Swell IT Solutions](https://img.shields.io/badge/Swell%20IT%20Solutions-3F9DD8?style=for-the-badge&logo=next.js&logoColor=white)](https://swellitsolutions.com.br/)
+[![Yuwork](https://img.shields.io/badge/Yuwork-518099?style=for-the-badge&logo=next.js&logoColor=white)](https://yuwork.co/)
+[![Prudential do Brasil Seguros S.A.](https://img.shields.io/badge/Prudential%20do%20Brasil%20Seguros%20S.A.-0051B2?style=for-the-badge&logo=react&logoColor=white)](https://www.prudential.com.br/)
+[![Transaction Advisor](https://img.shields.io/badge/Transaction%20Advisor-28A745?style=for-the-badge&logo=node.js&logoColor=white)](https://ta123.com/)
 
 ## Social:
 
